@@ -1,0 +1,10 @@
+# Compiled UnrealScript package
+*.u
+
+# UT99 logs
+*.log
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
