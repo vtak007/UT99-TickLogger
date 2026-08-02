@@ -15,3 +15,9 @@
 - Build: `ucc make` with `EditPackages=TickLogger` → `TickLogger.u` into server `System\`.
 - Pre-commit doc-update rule (global CLAUDE.md): update `readme.md`/`CLAUDE.md` only after
   the user has tested and approved the change.
+
+## CHANGE LOG
+
+Newest first. Format: `- YYYY-MM-DD — what changed`.
+
+- 2026-08-02 — Added this Change Log section (UT99 convention).
